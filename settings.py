@@ -5,5 +5,5 @@ class Settings():
 
         # Параметры экрана
         self.screen_width = 1200
-        self.screen_height = 800
-        self.bg_color = (230, 230, 230)
+        self.screen_height = 600
+        self.bg_color = (230, 230, 230)  # Цвета в Pygame задаются в схеме RGB и сохраняются в переменной
